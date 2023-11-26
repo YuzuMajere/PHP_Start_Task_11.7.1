@@ -1,0 +1,27 @@
+table,
+th,
+td {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 1px;
+}
+
+table {
+    width: 50rem;
+}
+
+.head_row,
+.y1,
+.y2,
+.y3,
+.y4,
+.y5,
+.y6,
+.y7,
+.y8 {
+    background-color: rgb(145, 63, 170);
+}
+
+.median {
+    background-color: green;
+}
